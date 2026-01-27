@@ -1,0 +1,9 @@
+pyrogram>=2.0.0
+aiohttp>=3.9.0
+asyncio>=3.4.3
+sqlite3  # обычно встроена в Python
+logging  # встроена
+re  # встроена
+uuid  # встроена
+datetime  # встроена
+random  # встроена
